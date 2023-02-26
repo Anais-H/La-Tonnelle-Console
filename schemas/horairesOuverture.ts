@@ -39,7 +39,7 @@ export default {
         title: 'Jeudi midi'
       },
       {
-        name: 'Jeudi_soir',
+        name: 'jeudi_soir',
         type: 'string',
         title: 'Jeudi soir'
       },
